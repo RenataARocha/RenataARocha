@@ -4,8 +4,7 @@
   </a>
 </div>
 
-# Renata Rocha
-
+# Olá, eu sou a Renata Rocha! 👋
 
 
 <div align="center">
@@ -15,29 +14,36 @@
 </div>
 
 
-<br>
-<p align="center">Eu sou Renata Rocha, uma programadora Front-End apaixonada por tecnologia e inovação. <br>
-💻 Atualmente, estou mergulhando em projetos incríveis com HTML, CSS e JavaScript. <br>
-🌟 Sempre em busca de novas tecnologias e aprimorando minhas habilidades.<br>
 
+<h2>🚀 Sobre mim</h2>
+
+
+<p>Sou uma entusiasta do desenvolvimento web, focada na criação de interfaces responsivas e intuitivas.  <br>
+Meu objetivo é aprimorar constantemente minhas habilidades e contribuir para projetos que impactem  <br>
+positivamente a experiência do usuário. </p>
+  
 
 ##
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenataARocha/RenataARocha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RenataARocha/RenataARocha/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RenataARocha/RenataARocha/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div
 
 <img 
   align="right" 
-    width="320px"
-  height="250px"
+    width="430px"
+  height="360px"
   src="https://github.com/user-attachments/assets/bd46ff9d-fc1a-4767-9ae5-80b402da4ced">
  
 </div>
 
 
 
-### 🤖 Linguagens e Tecnologias  <br/>
+### 🔧 Tecnologias que utilizo  <br/>
 
 <img 
     align="left" 
@@ -75,12 +81,18 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br> <br>
+º React.js (aprendendo e evoluindo!)
+
+º Versionamento com Git e GitHub
+
+º Responsividade e boas práticas de UI/UX
+
 
 <br>
-<br>
-<br>
 
-### 📫 Contato
+
+### 🌍 Onde me encontrar
 <a href="https://www.linkedin.com/in/renata-alexandre-rocha/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">
 </a>
@@ -110,13 +122,24 @@
 
 ##
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenataARocha/RenataARocha/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RenataARocha/RenataARocha/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RenataARocha/RenataARocha/output/github-contribution-grid-snake.svg">
-</picture>
 
 
+<br>
+
+<h2>📌 Meus Projetos</h2>
+
+🔹<a href="https://github.com/RenataARocha/Projeto---Easy-Shopping-Via-mobile" > Easy Shopping Via Mobile </a> → Loja online otimizada para dispositivos móveis, proporcionando uma experiência de compra rápida e intuitiva.
+
+🔹<a href="https://github.com/RenataARocha/Projeto---WE-CARE-About-Your-Pet" > WE CARE - About Your Pet </a> → Plataforma para auxiliar tutores no cuidado de seus pets, oferecendo informações e serviços relevantes.
+
+🔹<a href="https://github.com/RenataARocha/Projeto-Irm-os-Mario" > Irmãos Mario </a> → Site temático inspirado no universo Mario, com um design interativo e responsivo.
+ <br>
+
+ <br>
 
 
+ <h2>Vamos colaborar e criar coisas incríveis juntos! 🚀</h2>
+
+
+ 
 
