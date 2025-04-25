@@ -126,13 +126,20 @@ positivamente a experiência do usuário. </p>
 
 <br>
 
-<h2>📌 Meus Projetos</h2>
+## 📌 Meus Projetos
 
-🔹<a href="https://github.com/RenataARocha/Projeto---Easy-Shopping-Via-mobile" > Easy Shopping Via Mobile </a> → Loja online otimizada para dispositivos móveis, proporcionando uma experiência de compra rápida e intuitiva.
+🔹 [**Vortex Sneakers**](https://github.com/RenataARocha/Vortex-Sneakers) → Landing page moderna e responsiva para uma loja de tênis, com design arrojado e foco em performance.
 
-🔹<a href="https://github.com/RenataARocha/Projeto---WE-CARE-About-Your-Pet" > WE CARE - About Your Pet </a> → Plataforma para auxiliar tutores no cuidado de seus pets, oferecendo informações e serviços relevantes.
+🔹 [**Convert Pro**](https://github.com/RenataARocha/Convert-Pro) → Conversor de moedas simples e direto, utilizando JavaScript puro para praticar manipulação de DOM e lógica de conversão.
 
-🔹<a href="https://github.com/RenataARocha/Projeto-Irm-os-Mario" > Irmãos Mario </a> → Site temático inspirado no universo Mario, com um design interativo e responsivo.
+🔹 [**InspiraGram**](https://github.com/RenataARocha/InspiraGram) → Uma rede social fictícia com foco em frases inspiradoras, carrossel de posts e layout moderno. Uma vitrine de criatividade e boas práticas em front-end!
+
+🔹 [**Easy Shopping Via Mobile**](https://github.com/RenataARocha/Projeto---Easy-Shopping-Via-mobile) → Loja online otimizada para dispositivos móveis, proporcionando uma experiência de compra rápida e intuitiva.
+
+🔹 [**WE CARE - About Your Pet**](https://github.com/RenataARocha/Projeto---WE-CARE-About-Your-Pet) → Plataforma para auxiliar tutores no cuidado de seus pets, oferecendo informações e serviços relevantes.
+
+🔹 [**Irmãos Mario**](https://github.com/RenataARocha/Projeto-Irm-os-Mario) → Site temático inspirado no universo Mario, com um design interativo e responsivo.
+
  <br>
 
  <br>
