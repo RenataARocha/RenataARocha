@@ -2,14 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *" # todo dia meia-noite
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: Generate Snake Contribution Grid
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         id: snake-generate
         with:
@@ -17,12 +18,13 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg
-          color_snake: ff8c00
-          color_dots: '#FFD700,#FFD700,#FFD700,#FFD700,#FFD700'
+          # se quiser cores, tentar passar via args, conforme doc da action
+          # args: --color-snake ff8c00 --color-dots '#FFD700,#FFD700,#FFD700,#FFD700,#FFD700'
+
       - name: Commit & Push
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Atualizando snake.svg"
+          message: "✨ feat: adiciona snake de commits com tema girassol"
           add: "output/*.svg"
