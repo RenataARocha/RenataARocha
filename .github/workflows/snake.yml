@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - uses: Platane/snk@v3
         id: snake-generate
@@ -20,8 +20,7 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg
-          # Se quiser testar cores, veja se a action aceita via args
-          # args: --color-snake ff8c00 --color-dots '#FFD700,#FFD700,#FFD700,#FFD700,#FFD700'
+          # args: --color-snake ff8c00 --color-dots '#FFD700,#FFD700,#FFD700,#FFD700,#FFD700' # caso suporte via args
 
       - name: Commit & Push
         uses: EndBug/add-and-commit@v9
@@ -30,4 +29,4 @@ jobs:
           author_email: github-actions@github.com
           message: "✨ feat: adiciona snake de commits com tema girassol"
           add: "output/*.svg"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_TOKEN }}
