@@ -83,11 +83,13 @@ Atualmente estudo HTML, CSS, JavaScript e React.js, mas sigo sempre em constante
 
 <div align="center">
   <img height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RenataARocha&show_icons=true&theme=dark&title_color=FFD700&text_color=FFFFFF&icon_color=FF8C00&bg_color=0D0D0D&border_color=6B4226" />
-  
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RenataARocha&show_icons=true&theme=dark&title_color=FFD700&text_color=FFFFFF&icon_color=FF8C00&bg_color=0D0D0D&border_color=FFB703" />
+
   <img height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenataARocha&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0D0D0D&border_color=6B4226" />
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RenataARocha&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0D0D0D&border_color=FFB703" />
 </div>
+
+
 
 ##
 
